@@ -10,7 +10,7 @@
 - [Business Recommendations](#business-recommendations)
   
 ## Project overview
-This project analyzes pharmacy sales performance across multiple contries, cities, product categories and pharmacy types using SQL and Power BI.
+This project analyzes pharmacy sales performance across multiple countries, cities, product categories and pharmacy types using SQL and Power BI.
 
 **The dashobard focuses on:**
 -Revenue and margin analysis over time
