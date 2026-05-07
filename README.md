@@ -40,10 +40,11 @@ The dataset follows a classic star schema with 1 fact table and 3 dimension tabl
 - Data Modeling
 
 ## Dashboard Pages
-- ![1](overview.gif)
-- ![1](screenshots/overview_units_sold.png)
-- ![1](screenshots/product_page.png)
-- ![1](screenshots/market_page.png)
+![Overview](screenshots/overview.gif)
+![Product](screenshots/product.gif)
+![Market](screenshots/market.gif)
+
+[Download Dashboard PDF](pharmacy_sales_project.pdf)
 
 ## SQL Validation
   SQL validation queries were used to verify:
