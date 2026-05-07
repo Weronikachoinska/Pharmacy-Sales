@@ -18,7 +18,7 @@ This project analyzes pharmacy sales performance across multiple countries, citi
 -Promotion performance
 -Brands and products performance
 -Country and city-level comparision
--Performance od different types of pharmacy
+-Performance of different pharmacy types
 
 
 ## Dataset
@@ -44,7 +44,7 @@ The dataset follows a classic star schema with 1 fact table and 3 dimension tabl
 ![Product](screenshots/product.gif)
 ![Market](screenshots/market.gif)
 
-All pages in PDF(Pharmacy_sales_project.pdf)
+[All pages in PDF](pharmacy_sales_project.pdf)
 
 ## SQL Validation
   SQL validation queries were used to verify:
@@ -64,7 +64,7 @@ All pages in PDF(Pharmacy_sales_project.pdf)
 - Revenue is driven by a few key countries, namely Germany, France, Italy and Belgium.
 - Revenue remains relatively stable over time, while profit margins fluctuate significantly between periods.
 - Weekend sales performance is weaker than weekdays.
-- There is no clear relationship between units sold and price.
+- No strong relationship was identified between units sold and average selling price.
 - Prescription products generate the highest revenue, while Wellness and Personal Care categories achieve higher profit margins.
 - Promotional sales account for a relatively small share of revenue and are associated with approximately 9 percentage points lower margins.
 - Original branded products dominate total revenue, while generic products contribute a smaller market share.
