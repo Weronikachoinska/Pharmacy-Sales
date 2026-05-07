@@ -30,7 +30,7 @@ Due to file size limitations, the raw dataset is not included in this repository
 The dataset follows a classic star schema with 1 fact table and 3 dimension tables.
 
 ### Data Model
-![1](screenshots/data_model.png)
+![Data Model](screenshots/data_model.png)
 
 
 ## Tools:
@@ -44,7 +44,7 @@ The dataset follows a classic star schema with 1 fact table and 3 dimension tabl
 ![Product](screenshots/product.gif)
 ![Market](screenshots/market.gif)
 
-[All pages in PDF](pharmacy_sales_project.pdf)
+
 
 ## SQL Validation
   SQL validation queries were used to verify:
